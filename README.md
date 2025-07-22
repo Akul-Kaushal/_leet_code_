@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0213-house-robber-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
