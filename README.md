@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0213-house-robber-ii) |
+| [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
@@ -31,4 +32,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0424-longest-repeating-character-replacement) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
