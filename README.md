@@ -52,9 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
