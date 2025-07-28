@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0213-house-robber-ii) |
+| [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
+## Math
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
