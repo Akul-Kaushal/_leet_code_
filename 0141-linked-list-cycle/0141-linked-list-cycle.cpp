@@ -9,19 +9,22 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
-        ListNode* sp, *fp;
-        sp = fp = head;
-        int _check=0;
+        if(nullptr == head || nullptr == head->next) { return false;}
 
-        while(fp && fp->next){
+        ListNode* sp, *fp;
+        sp = head;
+        fp = head->next;
+
+        while(sp != fp){
+            if(nullptr == fp || nullptr == fp->next) { return false;}
             sp = sp->next;
             fp = fp->next->next;
-            if(sp==fp)
-            {
-                // _check = 1;
-                //break;
-                return true;
-            }
+            // if(sp==fp)
+            // {
+            //     // _check = 1;
+            //     //break;
+            //     return true;
+            // }
         }
         // if(_check){
         //     sp=head;
@@ -33,6 +36,6 @@ public:
         //     return true;
         // }
 
-        return false;
+        return true;
     }
 };
