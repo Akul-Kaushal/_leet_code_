@@ -13,7 +13,7 @@ public:
 
         ListNode* sp, *fp;
         sp = head;
-        fp = head;
+        fp = head->next;
 
         while(fp && fp->next)
         {
