@@ -21,18 +21,14 @@ public:
             fp = fp->next->next;
             if(sp==fp)
             {
-                _check = 1;
-                break;
+                sp=head;
+                while(sp!=fp)
+                {
+                    sp=sp->next;
+                    fp=fp->next;
+                }
+                return sp;
             }
-        }
-        if(_check){
-            sp=head;
-            while(sp!=fp)
-            {
-                sp=sp->next;
-                fp=fp->next;
-            }
-            return sp;
         }
 
         return nullptr;
