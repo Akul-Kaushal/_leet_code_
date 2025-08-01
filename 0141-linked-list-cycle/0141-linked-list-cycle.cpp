@@ -15,27 +15,12 @@ public:
         sp = head;
         fp = head->next;
 
-        while(sp != fp){
-            if(nullptr == fp || nullptr == fp->next) { return false;}
+        while(fp && fp->next)
+        {
             sp = sp->next;
             fp = fp->next->next;
-            // if(sp==fp)
-            // {
-            //     // _check = 1;
-            //     //break;
-            //     return true;
-            // }
+            if(sp == fp) { return true;}
         }
-        // if(_check){
-        //     sp=head;
-        //     while(sp!=fp)
-        //     {
-        //         sp=sp->next;
-        //         fp=fp->next;
-        //     }
-        //     return true;
-        // }
-
-        return true;
+        return false;
     }
 };
