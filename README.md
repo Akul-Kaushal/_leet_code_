@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0142-linked-list-cycle-ii) |
 | [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
