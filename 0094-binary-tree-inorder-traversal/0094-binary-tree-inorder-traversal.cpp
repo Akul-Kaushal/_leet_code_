@@ -11,20 +11,18 @@
  */
 class Solution {
 public:
+    void recursion(TreeNode *root, vector<int> &list)
+    {
+        if (nullptr == root) { return;}
+        recursion(root->left, list);
+        list.push_back(root->val);
+        recursion(root->right, list);
+    }
+
 
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> result;
-
-        if(root)
-        {
-            vector<int> left = inorderTraversal(root->left);
-            result.insert(result.end(),left.begin(), left.end());
-
-            result.push_back(root->val);
-
-            vector<int> right = inorderTraversal(root->right);
-            result.insert(result.end(), right.begin(), right.end());
-        }
+        recursion(root,result);
         return result;
     }
 };
