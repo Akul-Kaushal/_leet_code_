@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -119,11 +120,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0998-check-completeness-of-a-binary-tree) |
