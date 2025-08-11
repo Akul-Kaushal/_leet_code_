@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0102-binary-tree-level-order-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
