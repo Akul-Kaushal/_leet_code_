@@ -21,7 +21,6 @@ public:
         dfs(root->left, target-root->val, list, path);
         dfs(root->right, target-root->val, list, path);
 
-        path.pop_back();
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
