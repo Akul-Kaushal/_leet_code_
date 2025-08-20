@@ -11,24 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode *findMax(TreeNode* root)
-    {
-        if(nullptr == root) { return nullptr; }
-        else if(nullptr == root->right) { return root; }
-        return findMax(root->right);
-    }
-    TreeNode *findMin(TreeNode* root)
-    {
-        if(nullptr == root) { return nullptr; }
-        else if(nullptr == root->left) { return root; }
-        return findMin(root->left);
+    
+    bool isBst(TreeNode* root, long long min, long long max){
+        if( nullptr == root ) { return true;}
+        return (root->val > min && root->val < max 
+                && isBst(root->left,min, root->val)
+                && isBst(root->right,root->val, max) );
     }
 
     bool isValidBST(TreeNode* root) {
-        if( nullptr == root) { return true;}
-        if ( root->left && findMax(root->left)->val >= root->val) {return false;}
-        if ( root->right && findMin(root->right)->val <= root->val) {return false;}
-
-        return (isValidBST(root->left) && isValidBST(root->right));
+        return isBst(root, LLONG_MIN, LLONG_MAX);
     }
 };
