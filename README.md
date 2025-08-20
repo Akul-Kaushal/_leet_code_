@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0904-leaf-similar-trees) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0404-sum-of-left-leaves) |
+| [0450-delete-node-in-a-bst](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0904-leaf-similar-trees) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0450-delete-node-in-a-bst) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
