@@ -53,7 +53,7 @@ public:
                 if('1' ==  grid[i][j])
                 {
                     count ++;
-                    logic_bfs(grid, i, j);
+                    logic(grid, i, j);
                 }
             }
         }
