@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -282,4 +284,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
