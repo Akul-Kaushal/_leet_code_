@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 ## Binary Search
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0222-count-complete-tree-nodes) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0023-merge-k-sorted-lists) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 ## Merge Sort
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [0904-leaf-similar-trees](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
@@ -304,5 +310,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1753-path-with-minimum-effort) |
 | [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
