@@ -14,13 +14,11 @@ public:
                 int nx = x+d[0];
                 int ny = y+d[1];
 
-                if( 0<= nx && 0<=ny && nx<grid.size() && ny<grid[0].size())
+                if( 0<= nx && 0<=ny && nx<grid.size() && ny<grid[0].size() && grid[nx][ny] > grid[x][y]+1)
                 {
-                    if(grid[nx][ny] > grid[x][y]+1)
-                    {
                         grid[nx][ny] = grid[x][y] +1;
                         q.push({nx,ny});
-                    }
+                    
                 }
             }
         }
