@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1046-max-consecutive-ones-iii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 ## Binary Search
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -302,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1876-map-of-highest-peak](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
