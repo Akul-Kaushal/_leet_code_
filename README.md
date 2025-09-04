@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0213-house-robber-ii) |
 | [0455-assign-cookies](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0213-house-robber-ii) |
+| [0542-01-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0542-01-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Akul-Kaushal/_leet_code_/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Akul-Kaushal/_leet_code_/tree/master/1036-rotting-oranges) |
